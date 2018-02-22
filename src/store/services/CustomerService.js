@@ -1,5 +1,5 @@
-const API_URL = 'http://127.0.0.1:3002/api' || 'https://swt-sp4.herokuapp.com/api'
-// const API_URL = 'https://swt-sp4.herokuapp.com/api'
+// const API_URL = 'http://127.0.0.1:3002/api' || 'https://swt-sp4.herokuapp.com/api'
+const API_URL = 'https://swt-sp4.herokuapp.com/api'
 
 const CustomerService = {
 	createCustomer(customer) {
